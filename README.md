@@ -24,13 +24,15 @@
 
 
 # 📊 GitHub Stats:
-![Parsa-sanaee's Stats](https://github-readme-stats.vercel.app/api?username=Parsa-sanaee&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![Parsa-sanaee's Stats](https://github-readme-stats.vercel.app/api?username=Parsa-Sanaeepour&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
-![Parsa-sanaee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parsa-sanaee&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![Parsa-sanaee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parsa-Sanaeepour&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Parsa-sanaee&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Parsa-Sanaeepour&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Parsa-sanaee&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Parsa-Sanaeepour&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+![](https://visitcount.itsvg.in/api?id=Parsa-Sanaeepour&label=Profile%20Views&color=9&icon=5&pretty=false)
