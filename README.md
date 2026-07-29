@@ -36,3 +36,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Parsa-Sanaeepour&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ![](https://visitcount.itsvg.in/api?id=Parsa-Sanaeepour&label=Profile%20Views&color=9&icon=5&pretty=false)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Parsa-Sanaeepour&theme=github-compact)](...)
