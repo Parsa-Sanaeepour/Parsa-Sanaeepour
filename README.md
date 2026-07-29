@@ -73,7 +73,7 @@ Currently, I'm studying Machine Learning algorithms from scratch and implementin
 
 ## 📊 GitHub Stats
   <p>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=tanishq-ctrl&theme=monokai-metallian&border_radius=5&short_numbers=true&card_width=500&card_height=199" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=Parsa-Sanaeepour&theme=monokai-metallian&border_radius=5&short_numbers=true&card_width=500&card_height=199" alt="GitHub Streak" /></a>
   </p>
 
 ---
