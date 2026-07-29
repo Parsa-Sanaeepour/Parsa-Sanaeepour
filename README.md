@@ -19,9 +19,7 @@ Currently, I'm studying Machine Learning algorithms from scratch and implementin
 - Deep Learning
 - Neural Networks
 - Computer Vision
-- Natural Language Processing (NLP)
-- Data Structures & Algorithms
-
+- Data Science
 ---
 
 ## 💻 Tech Stack
