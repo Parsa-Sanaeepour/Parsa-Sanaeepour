@@ -57,7 +57,7 @@ Currently, I'm studying Machine Learning algorithms from scratch and implementin
 - 🎓 CS50's Introduction to Programming with Python
 - 🎓 SoloLearn Machine Learning
 - 🎓 SoloLearn SQL
-- 🎓 SoloLearn C#
+- 🎓 SoloLearn Python
 
 ---
 
@@ -65,17 +65,14 @@ Currently, I'm studying Machine Learning algorithms from scratch and implementin
 
 - Become an AI Engineer
 - Build impactful Machine Learning projects
-- Learn Large Language Models (LLMs)
+- Learn DeepLearning
 - Contribute to Open Source AI projects
 - Participate in AI competitions
 
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Parsa-Sanaeepour&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parsa-Sanaeepour&layout=compact&theme=tokyonight&hide_border=true)
+[![Stats](https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=tanishq-ctrl&theme=monokai-metallian&border_radius=5&short_numbers=true&card_width=500&card_height=199" alt="GitHub Streak)
 
 ---
 
@@ -91,13 +88,9 @@ Currently, I'm studying Machine Learning algorithms from scratch and implementin
 
 🔹 Credit Card Fraud Detection
 
-🔹 Predictive Maintenance
+🔹 Perceptron from Scratch
 
-🔹 Decision Tree Projects
-
-🔹 SVM Projects
-
-🔹 Deep Learning Experiments
+🔹 Learning Neural networkس
 
 ---
 
