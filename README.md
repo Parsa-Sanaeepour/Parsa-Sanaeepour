@@ -94,7 +94,7 @@ Currently, I'm studying Machine Learning algorithms from scratch and implementin
 
 🔹 Perceptron from Scratch
 
-🔹 Learning Neural networkس
+🔹 Learning Neural network
 
 ---
 
