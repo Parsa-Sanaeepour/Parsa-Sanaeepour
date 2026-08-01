@@ -1,5 +1,7 @@
 # Hi there 👋 I'm Parsa Sanaeepour
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Parsa-Sanaeepour&label=Profile%20views&color=0e75b6&style=flat" alt="Parsa-Sanaeepour" /> </p>
+
 🎓 Computer Software Student  
 🤖 Aspiring AI & Machine Learning Engineer  
 🐍 Python Developer  
